@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Eduardo Miramontes</h1>
+<h1 align="center">Hola 👋, soy Eduardo Miramontes</h1>
 <h3 align="center">Soy un analista de datos, estudiante de Actuaría</h3>
 
-- 📫 Como llegar a mí **emiramontesg@gmail.com**
+- 📫 **emiramontesg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
