@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Eduardo Miramontes</h1>
-<h3 align="center">Soy un analista de datos, estudiante de Actuaría</h3>
+<h3 align="center">Soy un quant jr, estudiante de Actuaría</h3>
 
 - 📫 **emiramontesg@gmail.com**
 
